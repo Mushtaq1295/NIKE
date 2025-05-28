@@ -1,18 +1,5 @@
-Thanks for the update! Let's fix the following issues you pointed out:
 
-### 🧹 Issues You Noticed
 
-1. **Screenshots (preview images)** are not rendering properly.
-2. **Live link** isn't formatted or placed well.
-3. **Project folder structure** looks messy in the rendered README.
-
----
-
-### ✅ Clean and Fixed `README.md`
-
-Here's a **clean version** you can copy-paste directly:
-
-```markdown
 # NIKE 👟 - React Interface (PC View)
 
 A responsive desktop interface of the **Nike** website, built using **React.js**. This project is a UI/UX recreation of Nike's official site, focused on clean design, smooth interactions, and reusable components — ideal for frontend portfolio demonstration.
@@ -52,7 +39,7 @@ A responsive desktop interface of the **Nike** website, built using **React.js**
 
 ## 📂 Folder Structure
 
-```
+
 
 NIKE/
 ├── public/
