@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Navbar1 } from "./components/Navbar1";
 import { Navbar2 } from "./components/Navbar2";
-import { Content } from "./components/content";
+import { Content } from "./components/Content";
 import { Footer } from "./components/Footer";
 import { Featured } from "./components/Featured";
 import { ShopByIcon } from "./components/ShopByIcon";
