@@ -12,7 +12,10 @@ A responsive desktop interface of the **Nike** website, built using **React.js**
 
 | Home Page | Featured Section | Shop By Icon |
 |-----------|------------------|---------------|
-| ![Home](./screenshots/home.png) | ![Featured](./screenshots/featured.png) | ![Shop](./screenshots/shopbyicon.png) |
+| ![Home](![image](https://github.com/user-attachments/assets/9aa8433d-28a5-4a9d-bec5-cd8fffb404f9)
+) | ![Featured](![image](https://github.com/user-attachments/assets/d1f99cc0-27cd-4a7d-a92a-29b9c62f2675)
+) | ![Shop](![image](https://github.com/user-attachments/assets/fb839cdf-4134-48fb-920c-22a2cd1799d2)
+) |
 
 > 💡 _Make sure these images exist in a `/screenshots` folder inside your repo!_
 
