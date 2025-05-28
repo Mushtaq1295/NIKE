@@ -73,28 +73,4 @@ Deployed using Vercel. Can also be deployed on Netlify or GitHub Pages.
 This project is for educational and portfolio purposes only. All trademarks and assets related to Nike are the property of Nike, Inc.
 
 📬 Contact
-GitHub: @Mushtaq1295
-Email: (optional – you can add if you'd like)
-
-🙌 Acknowledgements
-Inspired by Nike.com
-Built with 💻 using React + Vite
-
-markdown
-Copy
-Edit
-
----
-
-### 🔧 What You Need To Do
-1. Create a folder called `screenshots/` in the root.
-2. Add screenshots with the names:
-   - `home.png`
-   - `featured.png`
-   - `shopbyicon.png`
-3. Commit the updated `README.md`.
-
-```bash
-git add README.md screenshots/
-git commit -m "Updated README with live link, screenshots, and clean structure"
-git push
+GitHub: @Mushtaq1295h
