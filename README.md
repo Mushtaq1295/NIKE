@@ -41,28 +41,7 @@ A responsive desktop interface of the **Nike** website, built using **React.js**
 
 
 NIKE/
-├── public/
-│   └── nike-logo.svg
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Content.jsx
-│   │   ├── DontMiss.jsx
-│   │   ├── Featured.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Navbar1.jsx
-│   │   ├── Navbar2.jsx
-│   │   ├── SBS.jsx
-│   │   ├── ShopByIcon.jsx
-│   │   └── TrendingNow\.jsx
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── index.html
-├── vite.config.js
-├── package.json
-└── README.md
+![image](https://github.com/user-attachments/assets/de295126-1b96-4e12-81e6-00959b762c95)
 
 ````
 
