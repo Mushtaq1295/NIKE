@@ -43,11 +43,6 @@ A responsive desktop interface of the **Nike** website, built using **React.js**
 NIKE/
 ![image](https://github.com/user-attachments/assets/de295126-1b96-4e12-81e6-00959b762c95)
 
-````
-
-
----
-
 ## 🔗 Live Demo
 
 🌐 [Live Website](https://nike-livid-sigma.vercel.app/)
@@ -61,3 +56,45 @@ NIKE/
 ```bash
 git clone https://github.com/Mushtaq1295/NIKE.git
 cd NIKE
+2. Install dependencies
+bash
+Copy
+Edit
+npm install
+3. Run the development server
+bash
+Copy
+Edit
+npm run dev
+🚀 Deployment
+Deployed using Vercel. Can also be deployed on Netlify or GitHub Pages.
+
+📜 License
+This project is for educational and portfolio purposes only. All trademarks and assets related to Nike are the property of Nike, Inc.
+
+📬 Contact
+GitHub: @Mushtaq1295
+Email: (optional – you can add if you'd like)
+
+🙌 Acknowledgements
+Inspired by Nike.com
+Built with 💻 using React + Vite
+
+markdown
+Copy
+Edit
+
+---
+
+### 🔧 What You Need To Do
+1. Create a folder called `screenshots/` in the root.
+2. Add screenshots with the names:
+   - `home.png`
+   - `featured.png`
+   - `shopbyicon.png`
+3. Commit the updated `README.md`.
+
+```bash
+git add README.md screenshots/
+git commit -m "Updated README with live link, screenshots, and clean structure"
+git push
