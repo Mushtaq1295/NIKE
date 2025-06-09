@@ -45,7 +45,7 @@ NIKE/
 
 ## 🔗 Live Demo
 
-🌐 <a href="https://nike-livid-sigma.vercel.app/" target="_blank">Live Website</a>
+🌐 <a href="https://nike-livid-sigma.vercel.app/" target="_blank"> Live Website</a>
 
 ---
 
