@@ -37,7 +37,7 @@ A responsive desktop interface of the **Nike** website, built using **React.js**
 ---
 
 ## 📂 Folder Structure
-<pre> NIKE/ ├── .vite/ ├── dist/ ├── node_modules/ ├── public/ ├── src/ │ ├── assets/ │ └── components/ │ ├── Content.jsx │ ├── DontMiss.jsx │ ├── Featured.jsx │ ├── Footer.jsx │ ├── Navbar1.jsx │ ├── Navbar2.jsx │ ├── SBS.jsx │ ├── ShopByIcon.jsx │ ├── TrendingNow.jsx │ ├── App.css │ ├── App.jsx │ ├── index.css │ └── main.jsx ├── .gitignore ├── eslint.config.js ├── index.html ├── package.json ├── package-lock.json ├── README.md └── vite.config.js </pre>
+```bash NIKE/ ├── .vite/ ├── dist/ ├── node_modules/ ├── public/ ├── src/ │ ├── assets/ │ └── components/ │ ├── Content.jsx │ ├── DontMiss.jsx │ ├── Featured.jsx │ ├── Footer.jsx │ ├── Navbar1.jsx │ ├── Navbar2.jsx │ ├── SBS.jsx │ ├── ShopByIcon.jsx │ ├── TrendingNow.jsx │ ├── App.css │ ├── App.jsx │ ├── index.css │ └── main.jsx ├── .gitignore ├── eslint.config.js ├── index.html ├── package.json ├── package-lock.json ├── README.md └── vite.config.js ```
 
 
 ## 🔗 Live Demo
@@ -70,4 +70,4 @@ Deployed using Vercel. Can also be deployed on Netlify or GitHub Pages.
 This project is for educational and portfolio purposes only. All trademarks and assets related to Nike are the property of Nike, Inc.
 
 📬 Contact
-GitHub: @Mushtaq1295h
+GitHub: @Mushtaq1295
