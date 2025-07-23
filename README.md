@@ -37,7 +37,36 @@ A responsive desktop interface of the **Nike** website, built using **React.js**
 ---
 
 ## 📂 Folder Structure
-```bash NIKE/ ├── .vite/ ├── dist/ ├── node_modules/ ├── public/ ├── src/ │ ├── assets/ │ └── components/ │ ├── Content.jsx │ ├── DontMiss.jsx │ ├── Featured.jsx │ ├── Footer.jsx │ ├── Navbar1.jsx │ ├── Navbar2.jsx │ ├── SBS.jsx │ ├── ShopByIcon.jsx │ ├── TrendingNow.jsx │ ├── App.css │ ├── App.jsx │ ├── index.css │ └── main.jsx ├── .gitignore ├── eslint.config.js ├── index.html ├── package.json ├── package-lock.json ├── README.md └── vite.config.js ```
+```bash NIKE/
+NIKE/
+├── .vite/
+├── dist/
+├── node_modules/
+├── public/
+├── src/
+│ ├── assets/
+│ └── components/
+│ ├── Content.jsx
+│ ├── DontMiss.jsx
+│ ├── Featured.jsx
+│ ├── Footer.jsx
+│ ├── Navbar1.jsx
+│ ├── Navbar2.jsx
+│ ├── SBS.jsx
+│ ├── ShopByIcon.jsx
+│ ├── TrendingNow.jsx
+│ ├── App.css
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
+```
 
 
 ## 🔗 Live Demo
